@@ -2,6 +2,8 @@
 var dotenv = require('dotenv');
 dotenv.load();
 
+require('newrelic');
+
 var debug = require('debug')('atpfm-stream-for-later');
 var app = require('../app');
 var twitter = require('../twitter');

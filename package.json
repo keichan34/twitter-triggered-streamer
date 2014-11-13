@@ -18,6 +18,7 @@
     "aws-sdk": "^2.0.26",
     "s3-upload-stream": "^1.0.6",
     "request": "^2.48.0",
-    "moment": "^2.8.3"
+    "moment": "^2.8.3",
+    "newrelic": "^1.13.2"
   }
 }
